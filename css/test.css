@@ -1,0 +1,39 @@
+/*--inner about --*/
+.w3l-abt-sub-txt h4, .w3l-ser-sub-txt h4 a{
+    color:#fff;
+    font-size: 25px;
+}
+.w3l-abt-sub-txt p, .w3l-ser-sub-txt p {
+    color: #000;
+    line-height: 30px;
+    font-size:15px;
+}
+.using-icon-inner {
+    padding: 1.5em 1em;
+    border: 1px solid #fff;
+    background:rgba(71, 193, 155, 0.5);
+}
+.using-icon-inner span {
+    font-size: 34px;
+    color: #fff;
+    border: 1px solid #fe625b;
+    /* padding: 10px; */
+    width: 72px;
+    height: 72px;
+    line-height: 69px;
+    border-radius: 50px;
+    background: #fe625b;
+}
+.abut-inner-right h4 {
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 51px;
+    letter-spacing: 2px;
+        color: #fe625b;
+}
+.abut-inner-left p, .wls-sub-hedder-right p {
+    color: #000;
+    font-size:15px; 
+    letter-spacing: 1px;
+    line-height: 31px;
+}
